@@ -11,40 +11,4 @@
     "latitude" : -23.5609,
     "longitude" : -46.5610
   },
-  {
-    "key" : "SP",
-    "name" : "A703 - Sh. Metrô Tucuruvi",
-    "latitude" : -23.4801,
-    "longitude" : -46.6025
-  },
-  {
-    "key" : "RS",
-    "name" : "A704 - Sh. Iguatemi Caxias",
-    "latitude" : -29.1760,
-    "longitude" : -51.2203
-  },
-  {
-    "key" : "SP",
-    "name" : "A705 - Sh. SP Market",
-    "latitude" : -23.6781,
-    "longitude" : -46.6993
-  },
-  {
-    "key" : "RJ",
-    "name" : "A706 - Sh. Barra RJ",
-    "latitude" : -22.8721,
-    "longitude" : -43.4484
-  },
-  {
-    "key" : "RS",
-    "name" : "A707 - Sh. Iguatemi Porto Alegre",
-    "latitude" : -30.0251,
-    "longitude" : -51.1624
-  },
-  {
-    "key" : "SP",
-    "name" : "A709 - Sh. ABC",
-    "latitude" : -23.6678,
-    "longitude" : -46.5335
-  },
 ]
