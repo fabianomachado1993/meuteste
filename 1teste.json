@@ -1,12 +1,12 @@
 [
   {
-    "key" : "RS",
+    "key" : "Router_RS_A701",
     "name" : "A701 - Sh. Praia de Belas",
     "latitude" : -30.0504,
     "longitude" : -51.2288
   },
   {
-    "key" : "SP",
+    "key" : "Router_SP_A702",
     "name" : "A702 - Sh. Anália Franco",
     "latitude" : -23.5609,
     "longitude" : -46.5610
