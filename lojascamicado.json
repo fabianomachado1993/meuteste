@@ -1,0 +1,626 @@
+[
+{
+    "key" : "Router_SP_C001",
+    "name" : "Shopping Ibirapuera",
+    "latitude" : -23.6103,
+    "longitude" : -46.6669
+},
+{
+    "key" : "Router_SP_C002",
+    "name" : "Shopping Anália Franco",
+    "latitude" : -23.5615,
+    "longitude" : -46.5604
+},
+{
+    "key" : "Router_SP_C003",
+    "name" : "Shopping Plaza Sul",
+    "latitude" : -23.6198,
+    "longitude" : -46.6268
+},
+{
+    "key" : "Router_SP_C005",
+    "name" : "Shopping Internacional Guarulhos",
+    "latitude" : -23.4883,
+    "longitude" : -46.5491
+},
+{
+    "key" : "Router_SP_C006",
+    "name" : "Shopping Pátio Higienópolis",
+    "latitude" : -23.5421,
+    "longitude" : -46.6574
+},
+{
+    "key" : "Router_SP_C007",
+    "name" : "Shopping Lar Center",
+    "latitude" : -23.5145,
+    "longitude" : -46.6154
+},
+{
+    "key" : "Router_SP_C008",
+    "name" : "Shopping Eldorado",
+    "latitude" : -23.5725,
+    "longitude" : -46.6956
+},
+{
+    "key" : "Router_SP_C009",
+    "name" : "Morumbi Shopping",
+    "latitude" : -23.6232,
+    "longitude" : -46.6988
+},
+{
+    "key" : "Router_SP_C010",
+    "name" : "Shopping Pátio Paulista",
+    "latitude" : -23.5713,
+    "longitude" : -46.6437
+},
+{
+    "key" : "Router_SP_C011",
+    "name" : "Shopping Iguatemi Campinas",
+    "latitude" : -22.8921,
+    "longitude" : -47.0271
+},
+{
+    "key" : "Router_PR_C012",
+    "name" : "Park Shopping Barigui",
+    "latitude" : -25.4353,
+    "longitude" : -49.3159
+},
+{
+    "key" : "Router_RS_C017",
+    "name" : "Shopping Iguatemi Porto Alegre",
+    "latitude" : -30.0254,
+    "longitude" : -51.1619
+},
+{
+    "key" : "Router_PR_C018",
+    "name" : "Shopping Mueller Curitiba",
+    "latitude" : -25.4232,
+    "longitude" : -49.2703
+},
+{
+    "key" : "Router_RJ_C019",
+    "name" : "NorteShopping ",
+    "latitude" : -22.8860,
+    "longitude" : -43.2832
+},
+{
+    "key" : "Router_RS_C020",
+    "name" : "Praia de Belas Shopping",
+    "latitude" : -30.0495,
+    "longitude" : -51.2287
+},
+{
+    "key" : "Router_RS_C022",
+    "name" : "Barra Shopping Sul",
+    "latitude" : -30.0853,
+    "longitude" : -51.2461
+},
+{
+    "key" : "Router_PR_C023",
+    "name" : "Catuaí Shopping Center Londrina",
+    "latitude" : -23.3421,
+    "longitude" : -51.1853
+},
+{
+    "key" : "Router_SP_C025",
+    "name" : "Shopping Tamboré",
+    "latitude" : -23.5044,
+    "longitude" : -46.8343
+},
+{
+    "key" : "Router_GO_C027",
+    "name" : "Goiânia Shopping",
+    "latitude" : -16.7080,
+    "longitude" : -49.2730
+},
+{
+    "key" : "Router_DF_C028",
+    "name" : "Park Shopping Brasilia ",
+    "latitude" : -15.8328,
+    "longitude" : -47.9556
+},
+{
+    "key" : "Router_MG_C029",
+    "name" : "Shopping Boulevard BH",
+    "latitude" : -19.9207,
+    "longitude" : -43.9200
+},
+{
+    "key" : "Router_SP_C030",
+    "name" : "ParkShopping São Caetano ",
+    "latitude" : -23.6264,
+    "longitude" : -46.5802
+},
+{
+    "key" : "Router_ES_C032",
+    "name" : "Shopping Vitória",
+    "latitude" : -20.3124,
+    "longitude" : -40.2877
+},
+{
+    "key" : "Router_SP_C036",
+    "name" : "Jundiaí Shopping",
+    "latitude" : -23.1993,
+    "longitude" : -46.8903
+},
+{
+    "key" : "Router_SC_C038",
+    "name" : "Shopping Neumarkt",
+    "latitude" : -26.9206,
+    "longitude" : -49.0696
+},
+{
+    "key" : "Router_SP_C039",
+    "name" : "Center Vale Shopping",
+    "latitude" : -23.1998,
+    "longitude" : -45.8818
+},
+{
+    "key" : "Router_MG_C043",
+    "name" : "Center Shopping Uberlândia",
+    "latitude" : -18.9101,
+    "longitude" : -48.2612
+},
+{
+    "key" : "Router_SP_C044",
+    "name" : "Praiamar Shopping",
+    "latitude" : -23.9769,
+    "longitude" : -46.3104
+},
+{
+    "key" : "Router_SP_C046",
+    "name" : "Shopping Iguatemi Esplanada",
+    "latitude" : -23.5355,
+    "longitude" : -47.4631
+},
+{
+    "key" : "Router_DF_C047",
+    "name" : "Iguatemi Brasilia",
+    "latitude" : -15.7210,
+    "longitude" : -47.8857
+},
+{
+    "key" : "Router_SP_C049",
+    "name" : "Ribeirão Shopping",
+    "latitude" : -21.2124,
+    "longitude" : -47.8162
+},
+{
+    "key" : "Router_RJ_C052",
+    "name" : "Shopping Metropolitano Barra",
+    "latitude" : -22.9708,
+    "longitude" : -43.3726
+},
+{
+    "key" : "Router_SP_C053",
+    "name" : "Mooca Plaza Shopping",
+    "latitude" : -23.5795,
+    "longitude" : -46.5940
+},
+{
+    "key" : "Router_SP_C054",
+    "name" : "Shopping ABC",
+    "latitude" : -23.6678,
+    "longitude" : -46.5335
+},
+{
+    "key" : "Router_MS_C056",
+    "name" : "Shopping Campo Grande",
+    "latitude" : -20.4580,
+    "longitude" : -54.5878
+},
+{
+    "key" : "Router_SP_C057",
+    "name" : "Iguatemi São José do Rio Preto",
+    "latitude" : -20.8662,
+    "longitude" : -49.4144
+},
+{
+    "key" : "Router_DF_C059",
+    "name" : "Shopping Patio Brasil",
+    "latitude" : -15.7959,
+    "longitude" : -47.8923
+},
+{
+    "key" : "Router_MG_C060",
+    "name" : "BH Shopping",
+    "latitude" : -19.9739,
+    "longitude" : -43.9440
+},
+{
+    "key" : "Router_ES_C061",
+    "name" : "Shopping Vila Velha",
+    "latitude" : -20.3520,
+    "longitude" : -40.2977
+},
+{
+    "key" : "Router_SC_C063",
+    "name" : "Beira Mar Shopping",
+    "latitude" : -27.5847,
+    "longitude" : -48.5450
+},
+{
+    "key" : "Router_CE_C064",
+    "name" : "Shopping Iguatemi Fortaleza",
+    "latitude" : -3.75660,
+    "longitude" : -38.4890
+},
+{
+    "key" : "Router_CE_C065",
+    "name" : "Shopping RioMar Fortaleza",
+    "latitude" : -3.74135,
+    "longitude" : -38.4716
+},
+{
+    "key" : "Router_RJ_C066",
+    "name" : "Shopping Plaza Niterói",
+    "latitude" : -22.8963,
+    "longitude" : -43.1239
+},
+{
+    "key" : "Router_PE_C068",
+    "name" : "Shopping Riomar Recife",
+    "latitude" : -8.08608,
+    "longitude" :  -34.8948
+},
+{
+    "key" : "Router_RJ_C069",
+    "name" : "Shopping Américas",
+    "latitude" : -23.0118,
+    "longitude" : -43.4615
+},
+{
+    "key" : "Router_BA_C070",
+    "name" : "Salvador Shopping",
+    "latitude" : -12.9778,
+    "longitude" : -38.4548
+},
+{
+    "key" : "Router_MT_C071",
+    "name" : "Pantanal Shopping",
+    "latitude" : -15.5757,
+    "longitude" : -56.0724
+},
+{
+    "key" : "Router_MA_C072",
+    "name" : "Shopping da Ilha",
+    "latitude" : -2.52643,
+    "longitude" : -44.2549
+},
+{
+    "key" : "Router_PI_C073",
+    "name" : "Shopping Rio Poty",
+    "latitude" : -5.07730,
+    "longitude" : -42.8016
+},
+{
+    "key" : "Router_PE_C074",
+    "name" : "Shopping Recife",
+    "latitude" : -8.11867,
+    "longitude" : -34.9045
+},
+{
+    "key" : "Router_PB_C075",
+    "name" : "Manaira Shopping",
+    "latitude" : -7.09890,
+    "longitude" : -34.8450
+},
+{
+    "key" : "Router_SP_C076",
+    "name" : "Shopping Jardim Sul",
+    "latitude" : -23.6307,
+    "longitude" : -46.7358
+},
+{
+    "key" : "Router_AL_C077",
+    "name" : "Parque Shopping Maceió",
+    "latitude" : -9.62728,
+    "longitude" : -35.6989
+},
+{
+    "key" : "Router_BA_C079",
+    "name" : "Shopping da Bahia",
+    "latitude" : -12.9817,
+    "longitude" : -38.4646
+},
+{
+    "key" : "Router_SP_C080",
+    "name" : "Shopping Parque Dom Pedro",
+    "latitude" : -22.8470,
+    "longitude" : -47.0639
+},
+{
+    "key" : "Router_SP_C081",
+    "name" : "Bourbon Shopping São Paulo",
+    "latitude" : -23.5260,
+    "longitude" : -46.6810
+},
+{
+    "key" : "Router_RJ_C082",
+    "name" : "Shopping Nova Iguaçu",
+    "latitude" : -22.7628,
+    "longitude" : -43.4652
+},
+{
+    "key" : "Router_BA_C084",
+    "name" : "Shopping Paralela",
+    "latitude" : -12.9365,
+    "longitude" : -38.3949
+},
+{
+    "key" : "Router_GO_C086",
+    "name" : "Flamboyant Shopping Center",
+    "latitude" : -16.7105,
+    "longitude" : -49.2364
+},
+{
+    "key" : "Router_PA_C087",
+    "name" : " Boulevard Shopping Belem",
+    "latitude" : -1.44609,
+    "longitude" : -48.4896
+},
+{
+    "key" : "Router_RJ_C090",
+    "name" : "Shopping Recreio",
+    "latitude" : -23.0213,
+    "longitude" : -43.4888
+},
+{
+    "key" : "Router_DF_C091",
+    "name" : "Shopping Taguatinga",
+    "latitude" : -15.8412,
+    "longitude" : -48.0433
+},
+{
+    "key" : "Router_SC_C093",
+    "name" : "Balneário Shopping",
+    "latitude" : -26.9922,
+    "longitude" : -48.6467
+},
+{
+    "key" : "Router_SP_C094",
+    "name" : "Jardim Pamplona Shopping",
+    "latitude" : -23.5701,
+    "longitude" : -46.6613
+},
+{
+    "key" : "Router_PR_C095",
+    "name" : "Maringá Park Shopping Center",
+    "latitude" : -23.4224,
+    "longitude" : -51.9325
+},
+{
+    "key" : "Router_RJ_C096",
+    "name" : "Casa Gourmet Shopping ",
+    "latitude" : -22.9542,
+    "longitude" : -43.1780
+},
+{
+    "key" : "Router_RS_C102",
+    "name" : "Shopping Villagio Caxias",
+    "latitude" : -29.1767,
+    "longitude" : -51.2197
+},
+{
+    "key" : "Router_SP_C103",
+    "name" : "Shopping Center Iguatemi Alphaville",
+    "latitude" : -23.5045,
+    "longitude" : -46.8484
+},
+{
+    "key" : "Router_AL_C104",
+    "name" : "Maceió Shopping",
+    "latitude" : -9.64790,
+    "longitude" : -35.7145
+},
+{
+    "key" : "Router_MG_C105",
+    "name" : "Shopping Independência",
+    "latitude" : -21.7809,
+    "longitude" : -43.3605
+},
+{
+    "key" : "Router_PR_C106",
+    "name" : "Shopping Patio Batel",
+    "latitude" : -25.4429,
+    "longitude" : -49.2908
+},
+{
+    "key" : "Router_BA_C107",
+    "name" : "Shopping Barra Salvador",
+    "latitude" : -13.0065,
+    "longitude" : -38.5241
+},
+{
+    "key" : "Router_RN_C108",
+    "name" : "Shopping Midway Mall Natal",
+    "latitude" : -5.81092,
+    "longitude" : -35.2066
+},
+{
+    "key" : "Router_RJ_C109",
+    "name" : "Rio Design Barra",
+    "latitude" : -23.0013,
+    "longitude" : -43.3860
+},
+{
+    "key" : "Router_MG_C110",
+    "name" : "Diamond Mall",
+    "latitude" : -19.9281,
+    "longitude" : -43.9472
+},
+{
+    "key" : "Router_RS_C111",
+    "name" : "Park Shopping Canoas ",
+    "latitude" : -29.9157,
+    "longitude" : -51.1648
+},
+{
+    "key" : "Router_SE_C112",
+    "name" : "Shopping Riomar Aracaju",
+    "latitude" : -10.9447,
+    "longitude" : -37.0476
+},
+{
+    "key" : "Router_RO_C113",
+    "name" : "Porto Velho Shopping",
+    "latitude" : -8.74821,
+    "longitude" : -63.8755
+},
+{
+    "key" : "Router_MG_C114",
+    "name" : "Shopping Del Rey",
+    "latitude" : -19.8905,
+    "longitude" : -43.9679
+},
+{
+    "key" : "Router_AM_C115",
+    "name" : "Amazonas Shopping",
+    "latitude" : -3.09416,
+    "longitude" : -60.0227
+},
+{
+    "key" : "Router_RJ_C117",
+    "name" : "Shopping Tijuca",
+    "latitude" : -22.9217,
+    "longitude" : -43.2353
+},
+{
+    "key" : "Router_MT_C119",
+    "name" : "Estação Cuiaba",
+    "latitude" : -15.5901,
+    "longitude" : -56.1204
+},
+{
+    "key" : "Router_AM_C120",
+    "name" : "Manauara Shopping",
+    "latitude" : -3.10427,
+    "longitude" : -60.0114
+},
+{
+    "key" : "Router_SC_C122",
+    "name" : "Shopping Joinville Garten",
+    "latitude" : -26.2525,
+    "longitude" : -48.8529
+},
+{
+    "key" : "Router_MG_C123",
+    "name" : "Shopping Uberaba",
+    "latitude" : -19.7659,
+    "longitude" : -47.9507
+},
+{
+    "key" : "Router_SP_C124",
+    "name" : "Shopping Cidade Jardim",
+    "latitude" : -23.5990,
+    "longitude" : -46.6976
+},
+{
+    "key" : "Router_RS_C125",
+    "name" : "Passo Fundo Shopping",
+    "latitude" : -28.2716,
+    "longitude" : -52.3856
+},
+{
+    "key" : "Router_ES_C126",
+    "name" : "Shopping Praia da Costa",
+    "latitude" : -20.3419,
+    "longitude" : -40.2879
+},
+{
+    "key" : "Router_SP_C127",
+    "name" : "Shopping SP Market",
+    "latitude" : -23.6784,
+    "longitude" : -46.6982
+},
+{
+    "key" : "Router_TO_C128",
+    "name" : "Capim Dourado Shopping",
+    "latitude" : -10.1827,
+    "longitude" : -48.3481
+},
+{
+    "key" : "Router_SP_C129",
+    "name" : "Litoral Plaza Shopping",
+    "latitude" : -23.9981,
+    "longitude" : -46.4068
+},
+{
+    "key" : "Router_SP_C131",
+    "name" : "Shopping  Frei Caneca",
+    "latitude" : -23.5539,
+    "longitude" : -46.6526
+},
+{
+    "key" : "Router_BA_C132",
+    "name" : "Park Shopping Bahia",
+    "latitude" : -12.8887,
+    "longitude" : -38.3179
+},
+{
+    "key" : "Router_SP_C133",
+    "name" : "Shopping Center Piracicaba",
+    "latitude" : -22.7044,
+    "longitude" : -47.6499
+},
+{
+    "key" : "Router_SP_C134",
+    "name" : "Shopping Villa Lobos",
+    "latitude" : -23.5509,
+    "longitude" : -46.7218
+},
+{
+    "key" : "Router_RJ_C138",
+    "name" : "Shopping Rio Sul",
+    "latitude" : -22.9572,
+    "longitude" : -43.1766
+},
+{
+    "key" : "Router_PA_C139",
+    "name" : "Shopping Bosque Grão-Pará",
+    "latitude" : -1.38924,
+    "longitude" : -48.4645
+},
+{
+    "key" : "Router_SC_C140",
+    "name" : "Villa Romana Shopping",
+    "latitude" : -27.5896,
+    "longitude" : -48.5152
+},
+{
+    "key" : "Router_RJ_C141",
+    "name" : "Shopping Design Leblon",
+    "latitude" : -22.9835,
+    "longitude" : -43.2184
+},
+{
+    "key" : "Router_SP_C142",
+    "name" : "Shopping Metrô Santa Cruz",
+    "latitude" : -23.5988,
+    "longitude" : -46.6368
+},
+{
+    "key" : "Router_RS_C145",
+    "name" : "Shopping Pelotas",
+    "latitude" : -31.7616,
+    "longitude" : -52.3180
+},
+{
+    "key" : "Router_SP_C146",
+    "name" : "Boulevard Shopping Bauru ",
+    "latitude" : -22.3158,
+    "longitude" : -49.0661
+},
+{
+    "key" : "Router_SC_C147",
+    "name" : "Nações Shopping Criciuma",
+    "latitude" : -28.6853,
+    "longitude" : -49.3332
+},
+{
+    "key" : "Router_SC_C148",
+    "name" : "Shopping Pátio Chapecó",
+    "latitude" : -27.0701,
+    "longitude" : -52.6256
+}
+]
