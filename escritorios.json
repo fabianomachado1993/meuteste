@@ -1,0 +1,134 @@
+[
+{
+    "key" : "Router_RS_ARQUIVO_GERAL",
+    "name" : "ESCRITÓRIO - ARQUIVO GERAL - RS",
+    "latitude" : -29.9907,
+    "longitude" : --51.1177
+},
+{
+    "key" : "Router_SP_CADM",
+    "name" : "ESCRITÓRIO - SEDE CAMICADO - SP",
+    "latitude" : -23.5791,
+    "longitude" : --46.6513
+},
+{
+    "key" : "Router_RS_R124_2_ANDAR",
+    "name" : "ESCRITÓRIO - Central de Credito / Porto Alegre - RS",
+    "latitude" : -30.0063,
+    "longitude" : --51.1999
+},
+{
+    "key" : "Router_RS_R465_3_ANDAR",
+    "name" : "ESCRITÓRIO - Central Relacionamento Digital e Ecommerce / Porto Alegre - RS",
+    "latitude" : -30.0063,
+    "longitude" : --51.1999
+},
+{
+    "key" : "Router_RS_R465_1_ANDAR",
+    "name" : "ESCRITÓRIO - Central Meu Cartão / Porto Alegre - RS",
+    "latitude" : -30.0063,
+    "longitude" : --51.1999
+},
+{
+    "key" : "Router_BD_DHAKA_1",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO DHAKA - BRD",
+    "latitude" : 23.7732,
+    "longitude" : -90.4237
+},
+{
+    "key" : "Router_BD_DHAKA_2",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO DHAKA - BRD",
+    "latitude" : 23.7732,
+    "longitude" : -90.4237
+},
+{
+    "key" : "Router_SP_ECOMMERCE",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO E-COMMERCE - SP",
+    "latitude" : -23.5975,
+    "longitude" : --46.6839
+},
+{
+    "key" : "Router_RS_REALIZE",
+    "name" : "ESCRITÓRIO - SEDE REALIZE/CFI - RS",
+    "latitude" : -30.0461,
+    "longitude" : --51.2304
+},
+{
+    "key" : "Router_VN_SAIGON_1",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO HO CHI MINH - VNM",
+    "latitude" : 10.8039,
+    "longitude" : -106.6578
+},
+{
+    "key" : "Router_VN_SAIGON_2",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO HO CHI MINH - VNM",
+    "latitude" : 10.8039,
+    "longitude" : -106.6578
+},
+{
+    "key" : "Router_CN_SHANGHAI_1",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO SHANGHAI - CHN",
+    "latitude" : 31.2156,
+    "longitude" : -121.5753
+},
+{
+    "key" : "Router_CN_SHANGHAI_2",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO SHANGHAI - CHN",
+    "latitude" : 31.2156,
+    "longitude" : -121.5753
+},
+{
+    "key" : "Router_SC_TORRE_AZUL",
+    "name" : "ESCRITÓRIO - ESCRITÓRIO DE IMPORTAÇÃO - SC",
+    "latitude" : -26.9068,
+    "longitude" : --48.6586
+},
+{
+    "key" : "Router_INTERNET_POA_Algar_Secundario",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - RS",
+    "latitude" : -30.0515,
+    "longitude" : --51.1589
+},
+{
+    "key" : "Router_INTERNET_POA_Embratel_Primario",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - RS",
+    "latitude" : -30.0515,
+    "longitude" : --51.1589
+},
+{
+    "key" : "Router_INTERNET_SPO_Embratel",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - RS",
+    "latitude" : -30.0515,
+    "longitude" : --51.1589
+},
+{
+    "key" : "Router_INTERNET_SPO_Vivo",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - RS",
+    "latitude" : -30.0515,
+    "longitude" : --51.1589
+},
+{
+    "key" : "Router_Link_L2L_CIRION",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - RS <>SP",
+    "latitude" : -30.0515,
+    "longitude" : --51.1589
+},
+{
+    "key" : "Router_Link_L2L_EMBRATEL",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - RS <>SP",
+    "latitude" : -30.0515,
+    "longitude" : --51.1589
+},
+{
+    "key" : "Router_Link_L2L_CIRION",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - SP<>RS",
+    "latitude" : -23.6505,
+    "longitude" : --46.7205
+},
+{
+    "key" : "Router_Link_L2L_EMBRATEL",
+    "name" : "ESCRITÓRIO - SEDE ADMINISTRATIVA - SP<>RS",
+    "latitude" : -23.6505,
+    "longitude" : --46.7205
+}
+]
